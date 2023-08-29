@@ -1,0 +1,10 @@
+C:\Users\share\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\share\source\repos\project\project\bin\Debug\project.exe
+C:\Users\share\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\share\source\repos\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\share\source\repos\project\project\obj\Debug\project.Employee.resources
+C:\Users\share\source\repos\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\share\source\repos\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\share\source\repos\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\share\source\repos\project\project\obj\Debug\project.exe
+C:\Users\share\source\repos\project\project\obj\Debug\project.pdb
