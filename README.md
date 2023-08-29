@@ -19,9 +19,9 @@ Reliability: Azure's high availability and redundancy features guarantee that th
 
 System Requirements :-
 To use this Employee Management System, the following system requirements are essential:
-Microsoft Visual Studio
-Windows Operating System
-C# and .NET Framework
+Microsoft Visual Studio,
+Windows Operating System,
+C# and .NET Framework,
 Microsoft Azure Account for data storage and management
 
 Conclusion :-
