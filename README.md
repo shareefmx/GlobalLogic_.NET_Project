@@ -4,6 +4,8 @@ Employee Management System using C# and .NET with Microsoft Azure Server Integra
 Project Overview :-
 This project presents an Employee Management System developed using C# and .NET with a primary focus on efficient data management. The primary objective of this project is to provide a user-friendly interface for inserting, updating, and deleting employee data, including their names, departments, and salaries. Furthermore, it utilizes Microsoft Azure Server for data storage, ensuring data accessibility, scalability, and security.
 
+![Screenshot 2023-08-30 060815](https://github.com/shareefmx/GlobalLogic_.NET_Project/assets/106791424/38378843-2d32-4d90-b0c5-90412241e50d)
+
 Project Features :-
 Employee Data Management
 Insert Employee Data: The system allows users to easily add new employee records, including their names, departments, and salaries. This feature streamlines the process of onboarding new employees.
@@ -16,6 +18,8 @@ Data Accessibility: Microsoft Azure Server ensures that employee data is accessi
 Scalability: Azure's cloud infrastructure enables the system to handle an increasing amount of data and users. As the organization grows, the system can easily scale to accommodate more employee records.
 Data Security: Azure offers robust security measures, including encryption and authentication, to safeguard employee data. This ensures that sensitive information remains confidential and protected from unauthorized access.
 Reliability: Azure's high availability and redundancy features guarantee that the system remains operational even in the face of unexpected outages or failures. Employee data remains safe and accessible at all times.
+
+![Screenshot 2023-08-30 061034](https://github.com/shareefmx/GlobalLogic_.NET_Project/assets/106791424/179552a7-f377-408b-b05f-95ed56b22e9e)
 
 System Requirements :-
 To use this Employee Management System, the following system requirements are essential:
